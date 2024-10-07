@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title:  AddEmote
+## Version:  2.2.2
+## Author: Travis S. Casey
+## X-Email: efindel@gmail.com
+## Notes: Allows you to create and use your own custom emotes, on a global or per-character basis.
+## SavedVariables: AddEmote_Emotes
+## SavedVariablesPerCharacter: AddEmote_CharacterEmotes
+AddEmote.lua
